@@ -15,7 +15,8 @@ p, ul, ol {
 }
 
 .front.container {
-    margin: 20px auto;
+    margin: 0px;
+    padding-bottom: 0px;
 }
 
 .title .heading {
